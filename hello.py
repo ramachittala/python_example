@@ -1,6 +1,6 @@
 
 
-person = raw_input('Enter your name: ')  #ram_input for string
+person = raw_input('Enter your name: ')  #raw_input for string
 age = input('enter the age: ')
 height = raw_input(int('Enter the approx height: '))
 
